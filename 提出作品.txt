@@ -1,11 +1,11 @@
 ゲーム名　crescita
 
 ダウンロードリンク
-期限　2024年9月7日
-https://58.gigafile.nu/0907-oaf8ce4c062861cb3b97a6997709e48cc
+期限　2024年10月27日(日)
+https://66.gigafile.nu/1027-kea698d54a963cd76e21571b852c9f056
 
-内容：実行ファイル
-　　　PHPファイル
-　　　ゲーム紹介.pdf
+内容：ゲーム紹介.pdf
+　　　実行ファイル.zip
 　　　GitURL.txt
+　　　PHPファイル.zip
 　　　紹介映像.mp4
